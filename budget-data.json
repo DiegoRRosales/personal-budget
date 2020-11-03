@@ -2,30 +2,37 @@
     "myBudget": [
     {
         "title": "Eat out",
-        "budget": 30
+        "budget": 30,
+        "background": "#ffcd56"
     },
     {
         "title": "Rent",
-        "budget": 275
+        "budget": 275,
+        "background": "#ff6384"
     },
     {
         "title": "Groceries",
-        "budget": 75
+        "budget": 75,
+        "background": "#36a2eb"
     },
     {
         "title": "Shopping",
-        "budget": 100
+        "budget": 100,
+        "background": "#fd6b19"
     },
     {
         "title": "Netflix",
-        "budget": 15
+        "budget": 15,
+        "background": "#123456"
     },
     {
         "title": "Savings",
-        "budget": 150
+        "budget": 150,
+        "backgroundColor": "#22cca7"
     },
     {
         "title": "Car insurance",
-        "budget": 250
+        "budget": 250,
+        "background": "#765432"
     }
 ]}
